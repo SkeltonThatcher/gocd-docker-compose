@@ -11,7 +11,7 @@
 ## Usage Instructions
 
 1. Clone the repo
-2. From inside the repo run `docker-compose -d up`
+2. From inside the repo run `docker-compose up -d` to run in daemon mode
 3. Wait for a few minutes
 4. Acces the GoCD server at `http://<hostname>:8153`
 
