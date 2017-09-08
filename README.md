@@ -18,4 +18,4 @@
 **Notes**
 
 - To change the auto-reg key edit `/godata/config/cruise-config.xml`
-- `/godata/config/cruise-config.xml` will be populated/overwritten when the stack is launched (i.e with agent reg details).
+- `/godata/config/cruise-config.xml` will be populated/overwritten when the stack is launched (i.e with agent reg details). For a clean re-install, edit `cruise-config.xml` and remove the `<agents>` section.
