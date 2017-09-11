@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <cruise xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cruise-config.xsd" schemaVersion="95">
   <server artifactsdir="artifacts" agentAutoRegisterKey="123456789abcdefgh987654321" webhookSecret="57b5b4a5-e839-4735-935c-168e97b80033" commandRepositoryLocation="default" serverId="239404b7-69fe-4fc9-81e9-945654461562" />
-  <agents>
-    <agent hostname="d83803b5bc20" ipaddress="172.18.0.3" uuid="43a74199-bf0c-488d-8000-00d3c3a9361f" />
-    <agent hostname="f9dc1af5a334" ipaddress="172.18.0.4" uuid="314456e7-1439-487b-b8f5-9f0e00109d16" />
-  </agents>
 </cruise>
